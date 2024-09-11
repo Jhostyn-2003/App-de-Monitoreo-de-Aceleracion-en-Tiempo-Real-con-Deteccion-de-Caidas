@@ -50,13 +50,6 @@ Este proyecto es una aplicación Android desarrollada con **Xamarin** que utiliz
 
    - Haz clic en **Ejecutar** para compilar y ejecutar la aplicación en el dispositivo o emulador seleccionado.
 
-## 🖼️ Demostraciones
-
-- **Gráfico de Aceleración**: 
-  ![Gráfico de aceleración en tiempo real](screenshots/acceleration_plot.png)
-
-- **Detección de Caída**: 
-  ![Alerta de detección de caída](screenshots/fall_alert.png)
 
 ## 🚨 Funcionalidad de Detección de Caídas
 
